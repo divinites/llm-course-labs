@@ -17,3 +17,9 @@ A dial is a parameter: a number the model adjusts during training.
 
 - Messages: [SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection), Almeida, Gómez Hidalgo and Yamakami (2011), CC BY 4.0. They are real messages, and some spam is rude. The notebook downloads them when it runs.
 - Teacher: [`mshenoda/roberta-spam`](https://huggingface.co/mshenoda/roberta-spam), downloaded when the notebook runs.
+
+## License
+
+The code and original teaching material in this repository are available under
+the [MIT License](LICENSE). The linked dataset and downloaded models retain their
+own licenses; see Data and models above.
