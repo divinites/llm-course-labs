@@ -4,7 +4,9 @@ Exercises for the Large Language Models course. You need a Google account and a 
 
 | Lecture | Lab | Open it |
 |---|---|---|
-| 3 | Distil a spam filter: copy a 125-million-knob model into a 16,000-knob one, and see what gets lost | [Open in Colab](https://colab.research.google.com/github/divinites/llm-course-labs/blob/main/distil_a_spam_filter.ipynb) |
+| 3 | Distil a spam filter: copy a 125-million-dial model into a 16,000-dial one, and see what gets lost | [Open in Colab](https://colab.research.google.com/github/divinites/llm-course-labs/blob/main/distil_a_spam_filter.ipynb) |
+
+A dial is a parameter: a number the model adjusts during training.
 
 ## What is in here
 
